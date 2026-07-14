@@ -85,9 +85,6 @@ This project helps users understand the importance of creating secure passwords 
 Password-Strength-Analyzer/
 
 │── Password-Strength.py 
-
-
-
 └── README.md
 
 ```
